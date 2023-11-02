@@ -189,31 +189,31 @@
     },
     {
       "name": "google_identity_services_web",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_identity_services_web-0.2.1+1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_identity_services_web-0.2.2",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "google_sign_in_android",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.19",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_android-c8b6af999257cbc9a67d1f8dcb8a24666b4a59cc/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "google_sign_in_ios",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.6.3",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_ios-1947f7e29954132511b9bd2c31b1ac72ac53906f/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "google_sign_in_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_sign_in_platform_interface-2.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_platform_interface-9033cc08d77ea3dacf1af9ee0558c1b7d4518417/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "google_sign_in_web",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_sign_in_web-0.12.0+5",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_web-b2eeca971bb887a89e0600a59679121a1d6d6847/",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -314,6 +314,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "pigeon",
+      "rootUri": "file:///home/sumit/.pub-cache/git/pigeon-44057d2a4cab2029c1b25b598bfe9bc439d4eeb9/",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "platform",
       "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/platform-3.1.0",
       "packageUri": "lib/",
@@ -321,9 +327,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "pool",
@@ -488,7 +494,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-09-12T06:53:54.389999Z",
+  "generated": "2023-11-02T05:05:02.818860Z",
   "generator": "pub",
-  "generatorVersion": "3.1.1"
+  "generatorVersion": "3.1.5"
 }

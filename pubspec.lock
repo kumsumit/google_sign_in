@@ -238,41 +238,45 @@ packages:
     dependency: transitive
     description:
       name: google_identity_services_web
-      sha256: "554748f2478619076128152c58905620d10f9c7fc270ff1d3a9675f9f53838ed"
+      sha256: "000b7a31e1fa17ee04b6c0553a2b2ea18f9f9352e4dcc0c9fcc785cf10f2484e"
       url: "https://pub.dev"
     source: hosted
-    version: "0.2.1+1"
+    version: "0.2.2"
   google_sign_in_android:
     dependency: "direct main"
     description:
-      name: google_sign_in_android
-      sha256: "8d76099cb220d4f10c7e3c24492814c733f48ecb574c45c0ccadf5d5e50b012d"
-      url: "https://pub.dev"
-    source: hosted
-    version: "6.1.19"
+      path: "."
+      ref: HEAD
+      resolved-ref: c8b6af999257cbc9a67d1f8dcb8a24666b4a59cc
+      url: "https://github.com/kumsumit/google_sign_in_android.git"
+    source: git
+    version: "6.1.20"
   google_sign_in_ios:
     dependency: "direct main"
     description:
-      name: google_sign_in_ios
-      sha256: "8edfde9698b5951f3d02632eceb39cc283865c3cff0b03216bf951089f10345b"
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.6.3"
+      path: "."
+      ref: HEAD
+      resolved-ref: "1947f7e29954132511b9bd2c31b1ac72ac53906f"
+      url: "https://github.com/kumsumit/google_sign_in_ios.git"
+    source: git
+    version: "5.6.4"
   google_sign_in_platform_interface:
     dependency: "direct main"
     description:
-      name: google_sign_in_platform_interface
-      sha256: "35ceee5f0eadc1c07b0b4af7553246e315c901facbb7d3dadf734ba2693ceec4"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "9033cc08d77ea3dacf1af9ee0558c1b7d4518417"
+      url: "https://github.com/kumsumit/google_sign_in_platform_interface.git"
+    source: git
     version: "2.4.2"
   google_sign_in_web:
     dependency: "direct main"
     description:
-      name: google_sign_in_web
-      sha256: "939e9172a378ec4eaeb7f71eeddac9b55ebd0e8546d336daec476a68e5279766"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: b2eeca971bb887a89e0600a59679121a1d6d6847
+      url: "https://github.com/kumsumit/google_sign_in_web.git"
+    source: git
     version: "0.12.0+5"
   graphs:
     dependency: transitive
@@ -399,6 +403,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
+  pigeon:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "44057d2a4cab2029c1b25b598bfe9bc439d4eeb9"
+      url: "https://github.com/kumsumit/pigeon.git"
+    source: git
+    version: "11.0.1"
   platform:
     dependency: transitive
     description:
@@ -410,10 +423,11 @@ packages:
   plugin_platform_interface:
     dependency: transitive
     description:
-      name: plugin_platform_interface
-      sha256: da3fdfeccc4d4ff2da8f8c556704c08f912542c5fb3cf2233ed75372384a034d
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "3f77202a425698dc76188933bde3738a0df4b21e"
+      url: "https://github.com/kumsumit/plugin_platform_interface.git"
+    source: git
     version: "2.1.6"
   pool:
     dependency: transitive
