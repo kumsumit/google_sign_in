@@ -1,6 +1,7 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/home/sumit/softwares/flutter
-FLUTTER_APPLICATION_PATH=/home/sumit/StudioProjects/packages/packages/google_sign_in/google_sign_in/example
+FLUTTER_ROOT=/Users/amitsharan/development/flutter
+FLUTTER_APPLICATION_PATH=/Users/amitsharan/StudioProjects/google_sign_in/google_sign_in/example
+FLUTTER_FRAMEWORK_SWIFT_PACKAGE_PATH=/Users/amitsharan/StudioProjects/google_sign_in/google_sign_in/example/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
