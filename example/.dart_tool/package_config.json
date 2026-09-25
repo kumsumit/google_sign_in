@@ -3,278 +3,278 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/async-2.13.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/async-2.13.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "boolean_selector",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "characters",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/characters-1.4.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/characters-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "clock",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/clock-1.1.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/clock-1.1.3",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/collection-1.19.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/fake_async-1.3.3",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/fake_async-1.3.3",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "file",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/file-7.0.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter",
+      "rootUri": "file:///home/sumit/softwares/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.11"
     },
     {
       "name": "flutter_driver",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_driver",
+      "rootUri": "file:///home/sumit/softwares/flutter/packages/flutter_driver",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.11"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_test",
+      "rootUri": "file:///home/sumit/softwares/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.11"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_web_plugins",
+      "rootUri": "file:///home/sumit/softwares/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.11"
     },
     {
       "name": "fuchsia_remote_debug_protocol",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/fuchsia_remote_debug_protocol",
+      "rootUri": "file:///home/sumit/softwares/flutter/packages/fuchsia_remote_debug_protocol",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.11"
     },
     {
       "name": "google_identity_services_web",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/google_identity_services_web-0.3.3+1",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_identity_services_web-e61060b4b85742bee819c9093c1da17938888451/",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.13"
     },
     {
       "name": "google_sign_in",
       "rootUri": "../../",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     },
     {
       "name": "google_sign_in_android",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/google_sign_in_android-d59315fb5611214ba9c67db7faee910b8a587581/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_android-5d73c4b1c6f0e9a8dc8a0fbe10f86b508df09eac/",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     },
     {
       "name": "google_sign_in_ios",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/google_sign_in_ios-11248a284a92194c23219fb26e51dd5900331d72/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_ios-8f8945594d589fc63c8cae1060bb190721277272/",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     },
     {
       "name": "google_sign_in_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/google_sign_in_platform_interface-80bfdc1c05a9265219293c45e988f2e15a079ab5/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_platform_interface-624e8187ee070581b7f2f428251e6cc9222b2809/",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     },
     {
       "name": "google_sign_in_web",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/google_sign_in_web-9cccd2f0e06badca12fc161675acc2c8cf52d3dd/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_sign_in_web-7eb5072092345ba626ed33f30152303d63d27947/",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/http-1.6.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/http-1.6.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/http_parser-4.1.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/http_parser-4.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "integration_test",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/integration_test",
+      "rootUri": "file:///home/sumit/softwares/flutter/packages/integration_test",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.11"
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/leak_tracker-11.0.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker-11.0.2",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_flutter_testing",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_testing",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.2",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/matcher-0.12.20",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/matcher-0.12.20",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/material_color_utilities-0.13.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/material_color_utilities-0.13.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.19.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/meta-1.19.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/path-1.9.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/platform-3.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/platform-3.2.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.10"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/plugin_platform_interface-f19d3faf8d449aa73be0c3c71bd7e67fc0fb28bf/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-f19d3faf8d449aa73be0c3c71bd7e67fc0fb28bf/",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
     {
       "name": "process",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/process-5.0.5",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/process-5.0.6",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/amitsharan/development/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///home/sumit/softwares/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.11"
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/source_span-1.10.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/source_span-1.10.2",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/stack_trace-1.12.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/stack_trace-1.12.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/stream_channel-2.1.4",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/stream_channel-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/string_scanner-1.4.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/string_scanner-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "sync_http",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/sync_http-0.3.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/sync_http-0.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/term_glyph-1.2.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/term_glyph-1.2.2",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.13",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/test_api-0.7.12",
       "packageUri": "lib/",
-      "languageVersion": "3.11"
+      "languageVersion": "3.10"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_math-2.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vector_math-2.4.3",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vm_service-15.2.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vm_service-15.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "web",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/web-1.1.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "webdriver",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/webdriver-3.1.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/webdriver-3.2.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.4"
     },
     {
       "name": "google_sign_in_example",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.12"
+      "languageVersion": "3.13"
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.12.2",
-  "flutterRoot": "file:///Users/amitsharan/development/flutter",
-  "flutterVersion": "3.44.8",
-  "pubCache": "file:///Users/amitsharan/.pub-cache"
+  "generatorVersion": "3.13.4",
+  "flutterRoot": "file:///home/sumit/softwares/flutter",
+  "flutterVersion": "3.47.5",
+  "pubCache": "file:///home/sumit/.pub-cache"
 }
